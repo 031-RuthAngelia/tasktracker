@@ -1,3 +1,4 @@
-#task tracker CLI
+## task tracker CLI
 
-Project URL: https://github.com/031-RuthAngelia/task-tracker
+## Project URL
+https://github.com/031-RuthAngelia/task-tracker
