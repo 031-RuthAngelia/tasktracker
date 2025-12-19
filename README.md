@@ -1,3 +1,3 @@
 #task tracker CLI
 
-https://roadmap.sh/projects/task-tracker
+Project URL: https://github.com/031-RuthAngelia/task-tracker
